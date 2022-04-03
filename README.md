@@ -1,3 +1,15 @@
+# DEMO
+Link: [DEMO](https://crypto.ericngo.dev).
+
+# Picture
+<p align="center">
+  <img src="./public/hp.png" width="700">
+  <img src="./public/searchcoin.png" width="700">
+  <img src="./public/news.png" width="700">
+  <img src="./public/chart-coin-deatils.png" width="700">
+                                      
+</p>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
