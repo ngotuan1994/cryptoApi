@@ -4,6 +4,7 @@ import { Link } from 'react-router-dom'
 import { HomeOutlined, MoneyCollectOutlined, BulbOutlined, FundOutlined, MenuOutlined, FunctionOutlined } from '@ant-design/icons'
 import icon from "../images/crypto-icon2.png"
 const Navbar = () => {
+  let i = 1;
   return (
     <div className="nav-container">
       <div className='logo-container'>
@@ -14,13 +15,13 @@ const Navbar = () => {
 
       </div>
       <Menu theme='dark'>
-        <Menu.Item icon={<HomeOutlined />}>
+        <Menu.Item key={i++}icon={<HomeOutlined />}>
           <Link to="/">Home</Link>
         </Menu.Item>
-        <Menu.Item icon={<FunctionOutlined />}>
+        <Menu.Item key={i++} icon={<FunctionOutlined />}>
           <Link to="/cryptocurrencies">Cryptocurrencies</Link>
         </Menu.Item>
-        <Menu.Item icon={<BulbOutlined />}>
+        <Menu.Item key={i++} icon={<BulbOutlined />}>
           <Link to="/news">News</Link>
         </Menu.Item>
 
