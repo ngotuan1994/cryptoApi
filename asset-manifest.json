@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/cryptoApi/static/css/main.cd4effe1.css",
+    "main.js": "/cryptoApi/static/js/main.67270760.js",
+    "static/js/787.28f00fde.chunk.js": "/cryptoApi/static/js/787.28f00fde.chunk.js",
+    "index.html": "/cryptoApi/index.html",
+    "main.cd4effe1.css.map": "/cryptoApi/static/css/main.cd4effe1.css.map",
+    "main.67270760.js.map": "/cryptoApi/static/js/main.67270760.js.map",
+    "787.28f00fde.chunk.js.map": "/cryptoApi/static/js/787.28f00fde.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cd4effe1.css",
+    "static/js/main.67270760.js"
+  ]
+}
