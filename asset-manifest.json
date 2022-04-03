@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/cryptoApi/static/css/main.cd4effe1.css",
-    "main.js": "/cryptoApi/static/js/main.2a6f1b1e.js",
-    "static/js/787.28f00fde.chunk.js": "/cryptoApi/static/js/787.28f00fde.chunk.js",
-    "index.html": "/cryptoApi/index.html",
-    "main.cd4effe1.css.map": "/cryptoApi/static/css/main.cd4effe1.css.map",
-    "main.2a6f1b1e.js.map": "/cryptoApi/static/js/main.2a6f1b1e.js.map",
-    "787.28f00fde.chunk.js.map": "/cryptoApi/static/js/787.28f00fde.chunk.js.map"
+    "main.css": "/static/css/main.9bf4f17c.css",
+    "main.js": "/static/js/main.62caf250.js",
+    "static/js/787.28f00fde.chunk.js": "/static/js/787.28f00fde.chunk.js",
+    "index.html": "/index.html",
+    "main.9bf4f17c.css.map": "/static/css/main.9bf4f17c.css.map",
+    "main.62caf250.js.map": "/static/js/main.62caf250.js.map",
+    "787.28f00fde.chunk.js.map": "/static/js/787.28f00fde.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.cd4effe1.css",
-    "static/js/main.2a6f1b1e.js"
+    "static/css/main.9bf4f17c.css",
+    "static/js/main.62caf250.js"
   ]
 }
