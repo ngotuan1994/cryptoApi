@@ -1,5 +1,7 @@
 # DEMO
 Link: [DEMO](https://crypto.ericngo.dev).
+# Demo Video:
+![Alt Text](https://github.com/ngotuan1994/cryptoApi/blob/master/public/demo_video.gif)
 
 # Picture
 <p align="center">
